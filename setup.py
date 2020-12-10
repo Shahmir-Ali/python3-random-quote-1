@@ -6,7 +6,7 @@ setup(
     description='Get a random quote',
     url='http://github.com/trstringer/python3-random-quote',
     author='Thomas Stringer',
-    author_email='github@trstringer.com',
+    author_email='mianshahmeer.com',
     license='MIT',
     install_requires=['requests'],
     packages=find_packages(),
